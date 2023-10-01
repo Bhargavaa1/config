@@ -1,1 +1,9 @@
-/Users/Bhargavaa/.gitconfig
+[user]
+	name = Bhargavaa1
+	email = abhargava@g.hmc.edu
+[color]
+	ui = auto
+[alias]
+	s = status
+  	a = add
+	com = commit -m
