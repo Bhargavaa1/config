@@ -1,9 +1,12 @@
 [user]
-	name = Bhargavaa1
-	email = abhargava@g.hmc.edu
+  name = Bhargavaa1
+  email = abhargava@g.hmc.edu
 [color]
-	ui = auto
+  ui = auto
 [alias]
-	s = status
-  	a = add
-	com = commit -m
+  s = status
+  d = diff
+  l = log
+  a = add
+  com = commit -m
+  p = push
