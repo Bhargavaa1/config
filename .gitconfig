@@ -5,6 +5,7 @@
   ui = auto
 [alias]
   s = status
+  b = branch
   d = diff
   l = log
   a = add

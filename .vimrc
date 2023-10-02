@@ -22,6 +22,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'itchyny/lightline.vim'
 Plug 'preservim/nerdtree'
 Plug 'junegunn/rainbow_parentheses.vim'
+Plug 'ryanoasis/vim-devicons'
 call plug#end()
 
 " Automatically install plugins
