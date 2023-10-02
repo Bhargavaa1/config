@@ -1,4 +1,5 @@
 alias cdb='cd ~/Desktop/BHARGAVA'
+alias cdc='cd ~/config'
 alias cdd='cd ~/Desktop/DASION'
 alias cdi='cd ~/Desktop/INDUSTRY'
 alias cdp='cd ~/Desktop/POKER'
