@@ -8,6 +8,7 @@
   b = branch
   d = diff
   l = log
+  pu = pull
   a = add
   com = commit -m
   p = push

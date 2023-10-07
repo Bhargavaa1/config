@@ -7,3 +7,7 @@ alias cdr='cd ~/Desktop/RECRUITING'
 
 alias g='git'
 alias ls='ls -G'
+
+alias pip=pip3
+alias pipuninstallall="pip3 uninstall -y -r <(pip freeze)"
+alias python=python3

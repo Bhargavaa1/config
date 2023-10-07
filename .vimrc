@@ -2,7 +2,7 @@
 set number
 set numberwidth=1
 set shiftwidth=2
-
+	
 " Syntax 
 set encoding=utf-8
 set showmatch
@@ -21,8 +21,7 @@ endfun
 call plug#begin('~/.vim/plugged')
 Plug 'itchyny/lightline.vim'
 Plug 'preservim/nerdtree'
-Plug 'junegunn/rainbow_parentheses.vim'
-Plug 'ryanoasis/vim-devicons'
+Plug 'joshdick/onedark.vim'
 call plug#end()
 
 " Automatically install plugins
@@ -34,9 +33,9 @@ autocmd VimEnter *
 " Color
 syntax on
 let g:lightline = {
-      \ 'colorscheme': 'simpleblack',
+      \ 'colorscheme': 'onedark',
       \ }
-colorscheme advantage
+colorscheme onedark
 
 " Status line
 set laststatus=2
