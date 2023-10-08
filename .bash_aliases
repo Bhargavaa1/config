@@ -1,8 +1,10 @@
+alias cdb='cd ~/Desktop/BODYBUILDING'
 alias cdc='cd ~/config'
-alias cdd='cd ~/Desktop/DASION'
+alias cdd='cd ~/Desktop/INDUSTRY/DASION'
 alias cdi='cd ~/Desktop/INDUSTRY'
 alias cdp='cd ~/Desktop/POKER'
 alias cdr='cd ~/Desktop/RECRUITING'
+alias cds='cd ~/Desktop/SOFTWARE\ ENGINEERING'
 
 alias g='git'
 alias ls='ls -AlG'
