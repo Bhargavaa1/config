@@ -6,7 +6,7 @@ alias cdp='cd ~/Desktop/POKER'
 alias cdr='cd ~/Desktop/RECRUITING'
 
 alias g='git'
-alias ls='ls -G'
+alias ls='ls -AlG'
 
 alias pip=pip3
 alias pipuninstallall="pip3 uninstall -y -r <(pip freeze)"
